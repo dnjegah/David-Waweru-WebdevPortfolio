@@ -1,8 +1,22 @@
-# React + Vite
+# David Waweru Webdev Portfolio 
+Welcome to my portfolio website! This site showcases my work, skills, and projects. Whether you're a potential client, employer, or just curious about my work, I hope you find what you're looking for.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+* Home Page: An overview of my work and what I do.
+* Projects: Detailed information about the projects I've worked on.
+* About Me: A brief biography and my professional background.
+* Contact: Ways to get in touch with me.
 
-Currently, two official plugins are available:
+## Technologies Used
+* HTML/CSS: For structuring and styling the website.
+* JavaScript: To add interactivity.
+* React 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Contributing
+If you want to contribute to this project, feel free to open an issue or submit a pull request. Contributions are welcome!
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+If you have any questions or would like to get in touch, please contact me at dnjegah@gmail.com.
