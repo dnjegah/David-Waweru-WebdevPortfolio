@@ -1,4 +1,3 @@
-// src/components/Project.jsx
 import React from 'react';
 
 const Project = ({ title, description }) => {
