@@ -1,15 +1,16 @@
 body {
   font-family: Arial, sans-serif;
+  background-color: rgb(210, 214, 218);
 }
 
 header {
-  background-color: #615db1;
+  background-color: #53508f;
   color: #fff;
   padding: 1rem;
 }
 
 nav ul {
-  list-style: none;
+  list-style: lower-alpha;
   padding: 0;
 }
 
@@ -19,7 +20,7 @@ nav ul li {
 }
 
 footer {
-  background-color: #333;
+  background-color: #53508f;
   color: #fff;
   text-align: center;
   padding: 1rem;
@@ -27,3 +28,4 @@ footer {
   width: 100%;
   bottom: 0;
 }
+
