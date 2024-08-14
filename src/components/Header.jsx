@@ -1,13 +1,12 @@
-import React from 'react';
-import Navigation from './Navigation';
+import Navbar from './Navbar';
 
-const Header = () => {
-  return (
-    <header>
-      <h1>David Waweru</h1>
-      <Navigation />
-    </header>
-  );
-};
+function Header() {
+    return (
+        <header id='header' className='px-3 '>
+            <h1 id='header-text'>David Waweru</h1>
+            <Navbar />
+        </header>
+    );
+}
 
 export default Header;

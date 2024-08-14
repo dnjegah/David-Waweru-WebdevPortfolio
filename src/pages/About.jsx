@@ -1,13 +1,9 @@
-import React from 'react';
-import Header from '../components/Header';
-import Footer from '../components/Footer';
 import profilePic from "../assets/Dave.jpg";
 
 function About() {
     return (
         <div>
-            <Header />
-            <main>
+        
                 <h2>Welcome to My Portfolio</h2>
                 <img src={profilePic} alt="Profile" style={{ position: 'relative', width: '200px', borderRadius: '30%' }} />
 
@@ -18,8 +14,7 @@ function About() {
 
                     Let’s connect and see how I can help bring your digital vision to life!</p>
 
-            </main>
-            <Footer />
+            
         </div>
     );
 };
