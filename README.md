@@ -12,8 +12,9 @@ Welcome to my portfolio website! This site showcases my work, skills, and projec
 * JavaScript: To add interactivity.
 * React 
 
-## Contributing
-If you want to contribute to this project, feel free to open an issue or submit a pull request. Contributions are welcome!
+## Screen shots
+![About me page](image.png)
+![Resume page](image-2.png)
 
 ## License
 This project is licensed under the MIT License.
